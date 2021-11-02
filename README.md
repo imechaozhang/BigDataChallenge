@@ -88,9 +88,9 @@ https://arxiv.org/abs/2109.03181
 | ------                         | ------ |
 |01fe19bcs215@kletech.ac.in      | 0.741  |
 |01fe19bcs222@kletech.ac.in      | 0.740  |
+|ali.abdin@enas.fraunhofer.de    | 0.728  |
 |01fe19bcs195@kletech.ac.in      | 0.724  |
 |01fe19bcs278@kletech.ac.in      | 0.719  |
-|ali.abdin@enas.fraunhofer.de    | 0.716  |
 |01fe19bcs212@kletech.ac.in      | 0.715  |
 |01fe19bcs071@kletech.ac.in      | 0.546  |
 

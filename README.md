@@ -86,9 +86,9 @@ https://arxiv.org/abs/2109.03181
 
 | Email                          | Score  |
 | ------                         | ------ |
-|01fe19bcs215@kletech.ac.in      | 0.741  |
+|01fe19bcs215@kletech.ac.in      | 0.748  |
 |01fe19bcs222@kletech.ac.in      | 0.740  |
-|ali.abdin@enas.fraunhofer.de    | 0.728  |
+|ali.abdin@enas.fraunhofer.de    | 0.734  |
 |01fe19bcs195@kletech.ac.in      | 0.724  |
 |01fe19bcs278@kletech.ac.in      | 0.719  |
 |01fe19bcs212@kletech.ac.in      | 0.715  |

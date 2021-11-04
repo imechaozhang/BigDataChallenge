@@ -33,7 +33,7 @@ Jaswanth Yella, Seagate Technology, jaswanth.k.yella@seagate.com
 
 Yu Huang, Seagate Technology, yu.1.huang@seagate.com  
 
-* Yu Huang Zhang is currently a researcher working on the soft sensing problem in Sthitie’s team with various deep learning models. He is currently pursuing a Ph.D. Degree in Electrical Engineering at Florida Atlantic University. 
+* Yu Huang is currently a researcher working on the soft sensing problem in Sthitie’s team with various deep learning models. He is currently pursuing a Ph.D. Degree in Electrical Engineering at Florida Atlantic University. 
 
 The proposed Data Challenge belongs to the business problem/research problem sector. 
 
@@ -87,12 +87,14 @@ https://arxiv.org/abs/2109.03181
 | Email                          | Score  |
 | ------                         | ------ |
 |01fe19bcs215@kletech.ac.in      | 0.748  |
+|ali.abdin@enas.fraunhofer.de    | 0.743  |
 |01fe19bcs222@kletech.ac.in      | 0.740  |
-|ali.abdin@enas.fraunhofer.de    | 0.734  |
-|01fe19bcs195@kletech.ac.in      | 0.724  |
+|01fe19bcs195@kletech.ac.in      | 0.729  |
 |01fe19bcs278@kletech.ac.in      | 0.719  |
 |01fe19bcs212@kletech.ac.in      | 0.715  |
 |01fe19bcs071@kletech.ac.in      | 0.546  |
+
+Note that thses scores are temperary, the final results and ranking will be send by emails
 
 
  

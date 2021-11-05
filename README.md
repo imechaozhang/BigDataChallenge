@@ -88,20 +88,13 @@ https://arxiv.org/abs/2109.03181
 | ------                         | ------ |
 |01fe19bcs215@kletech.ac.in      | 0.748  |
 |ali.abdin@enas.fraunhofer.de    | 0.745  |
-|01fe19bcs222@kletech.ac.in      | 0.740  |
 |01fe19bcs278@kletech.ac.in      | 0.737  |
 |01fe19bcs195@kletech.ac.in      | 0.729  |
-|01fe19bcs212@kletech.ac.in      | 0.715  |
 |dcp@gmail.com                   | 0.703  |
 |01fe19bcs071@kletech.ac.in      | 0.659  |
 
 Note that thses scores are temperary, the final results and ranking will be send by emails
 
-* Notice
-
-Thanks to everyone who has submitted your results. The ranking will be updated on GitHub in 24 hours (may be further changed based on your codes). 
-
-Please remember to submit your code with team information before Nov. 5th at 5pm CDT, and let us know if you would like to publish or present your work at IEEE international conference of Big Data
 
 
  

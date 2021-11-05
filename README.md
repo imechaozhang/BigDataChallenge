@@ -97,6 +97,12 @@ https://arxiv.org/abs/2109.03181
 
 Note that thses scores are temperary, the final results and ranking will be send by emails
 
+* Notice
+
+Thanks to everyone who has submitted your results. The ranking will be updated on GitHub in 24 hours (may be further changed based on your codes). 
+
+Please remember to submit your code with team information before Nov. 5th at 5pm CDT, and let us know if you would like to publish or present your work at IEEE international conference of Big Data
+
 
  
  

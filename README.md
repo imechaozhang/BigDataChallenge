@@ -82,18 +82,15 @@ Participants will need to submit their source code with the prediction values fo
 
 https://arxiv.org/abs/2109.03181
 
-* Leaderboard
+* Winners
 
-| Email                          | Score  |
-| ------                         | ------ |
-|01fe19bcs215@kletech.ac.in      | 0.748  |
-|ali.abdin@enas.fraunhofer.de    | 0.745  |
-|01fe19bcs278@kletech.ac.in      | 0.737  |
-|01fe19bcs195@kletech.ac.in      | 0.729  |
-|dcp@gmail.com                   | 0.703  |
-|01fe19bcs071@kletech.ac.in      | 0.659  |
+First Place : 01fe19bcs215@kletech.ac.in
 
-Note that thses scores are temperary, the final results and ranking will be send by emails
+Second Place: ali.abdin@enas.fraunhofer.de
+
+Third Place: 01fe19bcs195@kletech.ac.in
+ 
+
 
 
 
